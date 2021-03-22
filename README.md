@@ -16,4 +16,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[进程相关命令](https://github.com/zexiangzhang/linux/tree/main/%E8%BF%9B%E7%A8%8B%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4)
 
+&nbsp;&nbsp;&nbsp;&nbsp;[shell基础](https://github.com/zexiangzhang/linux/blob/main/SHELL%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/SHELL%E5%9F%BA%E7%A1%80.md)
+
 ### update continue...
