@@ -5,7 +5,7 @@
 
 ## ***实际案例(只记录部分，会继续更新)***
 
-### 1. [启动Java项目(jar包部署/jenkins部署)](https://www.baidu.com)
+### 1. [启动Java项目(jar包部署/jenkins部署)](https://github.com/zexiangzhang/linux/blob/main/SHELL%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/shell_files/java_command.sh)
 
 	脚本运行命令为：./java_command.sh start/stop/restart xxx.jar
 	其中第一个参数为：start或stop或restart，属于其他参数会提示对应信息
@@ -16,7 +16,7 @@
 	java -XX:MetaspaceSize=128m -XX:MaxMetaspaceSize=128m -Xms1024m -Xmx1024m -Xmn256m -Xss256k -XX:SurvivorRatio=8 -XX:+UseConcMarkSweepGC -jar $jar_name 
 
 
-### 2. [文件备份](https://www.baidu.com)
+### 2. [文件备份](https://github.com/zexiangzhang/linux/blob/main/SHELL%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/shell_files/backup_files.sh)
 
 	脚本运行命令为：./backup_files.sh source_dir_path backup_target_dir_path
 	其中source_dir_path为需要备份的文件路径，backup_target_dir_path要备份到的目标文件路径(pwd查看即可)
@@ -28,7 +28,7 @@
 	脚本会删除备份到的目标文件路径下所有后缀名不是.jar的文件和文件夹
     
 
-### 3. [数据库备份](https://www.baidu.com)
+### 3. [数据库备份](https://github.com/zexiangzhang/linux/blob/main/SHELL%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/shell_files/backup_db.sh)
 
 	脚本运行命令为：./backup_db.sh
 	
